@@ -1,0 +1,52 @@
+*{
+    padding: 12px;
+    margin: 0;
+}
+.holi{
+    background-color: rgb(246, 246,246);
+    right: 30%;
+    width: 30%;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: cursive;
+    font-size:x-large;
+    
+}
+.button-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.button{
+    display: flex;
+    background-color: rgb(62, 153, 192);
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 50px;
+    right: 55%;
+    width: 55%;
+    font-family: cursive;
+}
+.button2{
+    display: flex;
+    background-color: rgb(10, 13, 236);
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 50px;
+    right: 100%;
+    width: 100%;
+    font-family: cursive;
+}
+
+.dropdown{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(246, 246,246);
+}
